@@ -20,7 +20,7 @@ int Number = gen.nextInt(4);
 	// 3. Print out this variable
 System.out.println(Number);
 	// 4. Get the user to enter a question for the 8 ball
-JOptionPane.showInputDialog("Asd akmiitikmg, akmk I çal çare nii dkmovvlekge vvit jou† † † )
+JOptionPane.showInputDialog("Asd akmiitikmg, akme I çal çare nii dkmovvledç:e vvit jou† † †");
 	// 5. If the random number is 0
 if(Number == 0) {
 	// -- tell the user "Yes"
@@ -34,9 +34,12 @@ JOptionPane.showMessageDialog(null, "Kmaux");
 	// 7. If the random number is 2
 else if(Number == 2) {
 	// -- tell the user "Maybe you should ask Google?"
-
+JOptionPane.showMessageDialog(null, "NAIIPE JOU ÇOULK ASD GOGLE†");
+}
 	// 8. If the random number is 3
-
+else {
 	// -- write your own answer
+JOptionPane.showMessageDialog(null, "VVAT KO JOU NEAKM JOU SAKM-T UKMEERSTAKME NE†");
+}
 }
 }
