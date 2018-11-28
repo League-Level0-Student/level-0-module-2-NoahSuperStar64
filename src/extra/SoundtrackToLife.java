@@ -24,10 +24,10 @@ else if(userMood==1) {
 playVideo("https://youtu.be/3C1_QX0C5xs");
 		}
 else if(userMood==2 ) {
-	playVideo("");
+	playVideo("http://bit.ly/video-for-angry");
 }
 else if(userMood==3) {
-playVideo("");
+playVideo("http://bit.ly/video-for-sad");
 }
 		// 4. Play different songs for other moods.
 
